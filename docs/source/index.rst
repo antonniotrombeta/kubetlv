@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+KUBET - Trang Chủ Nền Tảng KU CASINO Không Chặn 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`KUBET <https://kubetlv.com/>`_ đã trở thành sự lựa chọn hoàn hảo trong những sân chơi cá cược tại thị trường cá cược. Chúng tôi mang đến sân chơi giải trí thế hệ mới với vô vàng sản phẩm cá cược và các khuyến mãi đặc sắc.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên lạc
 
-.. note::
+Địa chỉ: 88 Pasteur, Phường 8, Quận 3, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0883457888
 
-Contents
---------
+Website: https://kubetlv.com/
 
-.. toctree::
+Mail: Kubetlv@gmail.com
 
-   usage
-   api
+Tags: #KUBET #KU_BET #KU_CASINO #link_KUBET #KUBET_CASINO
